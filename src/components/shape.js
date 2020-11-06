@@ -11,4 +11,4 @@ class Shape {
 }
 
 // export class
-export default Shape;
+module.exports.Shape = Shape;
