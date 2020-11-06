@@ -15,4 +15,4 @@ class Circle extends Shape {
 }
 
 // export
-export default Circle;
+module.exports.Shape = Shape;
